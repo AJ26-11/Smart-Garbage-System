@@ -1,1 +1,3 @@
 # Smart-Garbage-System
+
+The Smart Garbage System project utilizes Arduino and ultrasonic sensors to efficiently manage waste disposal. By continuously measuring the distance to the contents of a garbage bin, the system intelligently determines whether the bin is full or empty. When the bin reaches a predefined "full" threshold, it triggers actions such as sending notifications or activating warnings, streamlining waste collection and ensuring timely maintenance. Conversely, when the bin falls below an "empty" threshold, it signals that the bin is ready for use. This project promotes smart and sustainable waste management, optimizing resource allocation and enhancing environmental responsibility.
